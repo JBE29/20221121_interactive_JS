@@ -63,7 +63,7 @@ cardall.addEventListener('mouseover', function () {
         Image.setAttribute("style", "width:100%");
         cardStatus = false;
     }
-    });
+    }); */
 
 // FUNCTION 7
 
